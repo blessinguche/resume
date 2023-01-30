@@ -6,7 +6,7 @@ This custom resume was built with HTML, [Tailwind CSS](https://tailwindcss.com/)
 Check Out My Finished Resume
 ----------------------------
 
-Hosted with Netlify & Mobile Responsive [Blessing Uche - Resume](https://resume-torey-littlefield.netlify.app/)
+Hosted with Netlify & Mobile Responsive [Blessing Uche - Resume](https://blessing-uche-resume.netlify.app/)
 
 How to run it
 -------------
